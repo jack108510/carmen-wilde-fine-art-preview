@@ -1,0 +1,542 @@
+[
+  {
+    "slug": "alberta-bounty",
+    "name": "Alberta Bounty",
+    "description": "36\"x 36\"Original Acrylic on gallery wrapped canvas. · This piece was inspired by Alberta Tourist Website photo. I am so grateful I live in Alberta because we have everything nature can think of. How is this even possible? I started this piece a while ago and believe it gets finished when it gets done. Today was the day! Enjoy!",
+    "price": "1944",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/alberta-bounty.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/alberta-bounty"
+  },
+  {
+    "slug": "before-the-day",
+    "name": "Before the Day",
+    "description": "18\"x36\" · Original · Acrylic on canvas",
+    "price": "972",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/before-the-day.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/before-the-day"
+  },
+  {
+    "slug": "autumn-s-here-2022",
+    "name": "Before the Day",
+    "description": "42\"x 16\" Inspired by a walk in Chicacoo, AB but instead of painting the sunshine reflecting on the grass behind the trees, I envisioned a bubbling brook. · Original · Acrylic on gallery wrapped canvas",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/autumn-s-here-2022.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/autumn-s-here-2022"
+  },
+  {
+    "slug": "breathe-autumn",
+    "name": "Breathe Autumn",
+    "description": "This painting was inspired by my hike in Jasper last fall (2021). A little getaway was just what called out to me. Of course Luna came along for the ride! · 48\"x 24\" · Original · Acrylic on canvas",
+    "price": "1728",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/breathe-autumn.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/breathe-autumn"
+  },
+  {
+    "slug": "chickakoo-i",
+    "name": "Chicakoo I",
+    "description": "16\"x40\" · Original · Acrylic on canvas ·   · *This can be bought as a single or a diptych with Chickakoo I",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/chickakoo-i.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/chickakoo-i"
+  },
+  {
+    "slug": "chickakoo-ii",
+    "name": "Chicakoo II",
+    "description": "16\"x40\" · Original · Acrylic on canvas ·   · *This can be bought as a single or a diptych with Chickakoo I",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/chickakoo-ii.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/chickakoo-ii"
+  },
+  {
+    "slug": "choosing-a-path-1",
+    "name": "Choosing a Path",
+    "description": "30\"x40\" · Original · Acrylic on canvas",
+    "price": "1800",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/choosing-a-path-1.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/choosing-a-path-1"
+  },
+  {
+    "slug": "clear-a-path",
+    "name": "Clear Path",
+    "description": "18\"x36\" · Original · Acrylic on canvas",
+    "price": "972",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/clear-a-path.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/clear-a-path"
+  },
+  {
+    "slug": "corporate-board-room-triptych",
+    "name": "Corporate Board Room Triptych",
+    "description": "Triptych 3 panels each at 30\"w x 48\" high · Original · Acrylic on canvas",
+    "price": "6000",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/corporate-board-room-triptych.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/corporate-board-room-triptych"
+  },
+  {
+    "slug": "corporate-meeting-room",
+    "name": "Corporate Meeting Room",
+    "description": "48\"x36\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/corporate-meeting-room.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/corporate-meeting-room"
+  },
+  {
+    "slug": "corporate-meeting-room-two",
+    "name": "Corporate Meeting Room Two",
+    "description": "72\"x 24\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/corporate-meeting-room-two.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/corporate-meeting-room-two"
+  },
+  {
+    "slug": "edge-of-silence",
+    "name": "Edge of Silence",
+    "description": "36\"x48\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/edge-of-silence.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/edge-of-silence"
+  },
+  {
+    "slug": "equador-workshop",
+    "name": "Equador Workshop",
+    "description": "20\" x 20 \" · Original Acrylic on gallery wrapped canvas influenced by photo from Dominik Modlinski. I signed up for his workshop one January weekend as I wanted to challenge myself with structural elements. Very interesting process! ·  ",
+    "price": "600",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/equador-workshop.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/equador-workshop"
+  },
+  {
+    "slug": "fairytale-magic",
+    "name": "Fairytale Magic",
+    "description": "24\"x 30\" · Original Acrylic on gallery wrapped canvas.  · Inspired by a zoom class I took with Willie Wong in 2022 and just completed yesterday. I wanted to create a moody type fairyland image where I could just sit quiet and think...lol another escape from my reality!",
+    "price": "1080",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/fairytale-magic.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/fairytale-magic"
+  },
+  {
+    "slug": "fall-reflections",
+    "name": "Fall Reflections",
+    "description": "36\"x 48\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/fall-reflections.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/fall-reflections"
+  },
+  {
+    "slug": "forest-alight",
+    "name": "Forest Alight",
+    "description": "48\"x60\" · Original · Acrylic on canvas",
+    "price": "4320",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/forest-alight.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/forest-alight"
+  },
+  {
+    "slug": "golden-autumn",
+    "name": "Golden Autumn",
+    "description": "36\"x48\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/golden-autumn.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/golden-autumn"
+  },
+  {
+    "slug": "gregg-lake",
+    "name": "Gregg Lake",
+    "description": "24\"x48\" · Original · Acrylic on canvas",
+    "price": "1728",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/gregg-lake.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/gregg-lake"
+  },
+  {
+    "slug": "happy-trails",
+    "name": "Happy Trails",
+    "description": "36\"x48\" · Original · Acrylic on canvas",
+    "price": "2592",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/happy-trails.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/happy-trails"
+  },
+  {
+    "slug": "japser-hike",
+    "name": "Jasper Hike",
+    "description": "48\"x 24\" · Original · Acrylic on canvas",
+    "price": "1728",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/japser-hike.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/japser-hike"
+  },
+  {
+    "slug": "mini-1",
+    "name": "Mini 1",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-1.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-1"
+  },
+  {
+    "slug": "mini6",
+    "name": "Mini 11",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini6.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini6"
+  },
+  {
+    "slug": "mini-12",
+    "name": "Mini 12",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-12.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-12"
+  },
+  {
+    "slug": "mini-13-1",
+    "name": "Mini 13",
+    "description": "Fall walk down a country road near Villeneuve, AB.",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-13-1.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-13-1"
+  },
+  {
+    "slug": "mini-14",
+    "name": "Mini 14",
+    "description": "My walk with my English Springer Spaniel, Luna, down the country road by the Plant. The pond had remarkable reflections this crisp fall morning.",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-14.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-14"
+  },
+  {
+    "slug": "mini-13",
+    "name": "Mini 15",
+    "description": "Once in awhile I like to paint an image from my imagination. This day is where I thought I would like to be today. This was painted on a canvas panel board.",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-13.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-13"
+  },
+  {
+    "slug": "mini-16-jasper-ab",
+    "name": "Mini 16 - Jasper AB",
+    "description": "Mini 16, 17, and 18 were inspired by a Jasper weekend. Nothing better than spending time in the forest with rushing water beside me. Of course Luna loved it too!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-16-jasper-ab.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-16-jasper-ab"
+  },
+  {
+    "slug": "mini-17-jasper-ab",
+    "name": "Mini 17 - Jasper AB",
+    "description": "Mini 16, 17, and 18 were inspired by a Jasper weekend. Nothing better than spending time in the forest with rushing water beside me. Of course Luna loved it too!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-17-jasper-ab.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-17-jasper-ab"
+  },
+  {
+    "slug": "mini-18-jasper-ab",
+    "name": "Mini 18 - Jasper AB",
+    "description": "Mini 16, 17, and 18 were inspired by a Jasper weekend. Nothing better than spending time in the forest with rushing water beside me. Of course Luna loved it too!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-18-jasper-ab.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-18-jasper-ab"
+  },
+  {
+    "slug": "mini-19-jasper-ab",
+    "name": "Mini 19 - Jasper AB",
+    "description": "Mini 16, 17, and 18 were inspired by a Jasper weekend. Nothing better than spending time in the forest with rushing water beside me. Of course Luna loved it too!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-19-jasper-ab.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-19-jasper-ab"
+  },
+  {
+    "slug": "mini-2",
+    "name": "Mini 2",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-2.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-2"
+  },
+  {
+    "slug": "mini-20",
+    "name": "Mini 20",
+    "description": "Mini 20 started off simply by using up some of my left over paint. I loved the contrast of blues and yellows so a just started laying down the colors. They simply took me to where I needed to go.",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-20.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-20"
+  },
+  {
+    "slug": "mini-21-jasper",
+    "name": "mini 21 Jasper",
+    "description": "Mini 21 I washed my little canvas with Quinacridone/Nickel Azo Gold which allows this wonderful shade to come through background plus I just love this color!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-21-jasper.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-21-jasper"
+  },
+  {
+    "slug": "mini-22-winter-walk",
+    "name": "Mini 22 Winter Walk",
+    "description": "Mini 22 Just another walk with Luna!",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-22-winter-walk.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-22-winter-walk"
+  },
+  {
+    "slug": "mini-3",
+    "name": "Mini 3",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-3.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-3"
+  },
+  {
+    "slug": "mini-4",
+    "name": "Mini 4",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-4.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-4"
+  },
+  {
+    "slug": "mini-5",
+    "name": "Mini 5",
+    "description": "",
+    "price": "60",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-5.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-5"
+  },
+  {
+    "slug": "mini-6",
+    "name": "Mini 6",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-6.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-6"
+  },
+  {
+    "slug": "mini-7",
+    "name": "Mini 7",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-7.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-7"
+  },
+  {
+    "slug": "mini-8",
+    "name": "Mini 8",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-8.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-8"
+  },
+  {
+    "slug": "mini-8-1",
+    "name": "Mini 9",
+    "description": "",
+    "price": "80",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mini-8-1.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mini-8-1"
+  },
+  {
+    "slug": "mystic-mountain",
+    "name": "Mystic Mountain",
+    "description": "16\"x20\" · Original · Acrylic on canvas",
+    "price": "480",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/mystic-mountain.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/mystic-mountain"
+  },
+  {
+    "slug": "outlook",
+    "name": "Outlook",
+    "description": "16\"x40\" · Original · Acrylic on canvas",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/outlook.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/outlook"
+  },
+  {
+    "slug": "peaceful-calm",
+    "name": "Peaceful Calm",
+    "description": "42\"x 16\" · Original · Acrylic on canvas",
+    "price": "1008",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/peaceful-calm.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/peaceful-calm"
+  },
+  {
+    "slug": "prairie-delight",
+    "name": "Prairie Delight",
+    "description": "16\"x40\" · Original · Acrylic on canvas",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/prairie-delight.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/prairie-delight"
+  },
+  {
+    "slug": "reflective-moments-at-floating-stone",
+    "name": "Reflective Moments at Floating Stone",
+    "description": "20\"x 20\"Original Acrylic on gallery wrapped canvas. · Looking through my potential pictures to paint file, I found this wonderful picture of a pond near our family's cottage at Floating Stone. I seem to be drawn to any picture that has reflections.  I wonder if the universe it telling me something. Grateful to have such wonderful moments and memories at Floating Stone Lake. Thanks to my wonderful parents!",
+    "price": "600",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/reflective-moments-at-floating-stone.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/reflective-moments-at-floating-stone"
+  },
+  {
+    "slug": "river-dance",
+    "name": "River Dance",
+    "description": "24\"x24\" · Original · Acrylic on canvas",
+    "price": "864",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/river-dance.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/river-dance"
+  },
+  {
+    "slug": "river-ridge",
+    "name": "River Ridge",
+    "description": "40\"x30\" · Original · Acrylic on canvas",
+    "price": "1800",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/river-ridge.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/river-ridge"
+  },
+  {
+    "slug": "saturday-stroll-edmonton-river-valley",
+    "name": "Saturday Stroll Edmonton River Valley",
+    "description": "Walking in the river valley with some girl friends last Saturday experiencing the first snowfall of the season. Luna totally was loving it....me, a little chilly. The river valley never disappoints me! · 18\" x 16\" · Original · Acrylic on panel board",
+    "price": "432",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/saturday-stroll-edmonton-river-valley.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/saturday-stroll-edmonton-river-valley"
+  },
+  {
+    "slug": "somewhere",
+    "name": "Somewhere",
+    "description": "Walking in the Edmonton river valley there are endless possiblities and this is from \"Somewhere\".  · 11\" x 14\" · Original · Acrylic on canvas",
+    "price": "230",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/somewhere.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/somewhere"
+  },
+  {
+    "slug": "twin-lakes",
+    "name": "Twin Lakes",
+    "description": "42\"x 16\" · Original · Acrylic on canvas 2",
+    "price": "1008",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/twin-lakes.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/twin-lakes"
+  },
+  {
+    "slug": "unnamed",
+    "name": "Unnamed",
+    "description": "24\"x 48\" · Original · Acrylic on canvas 2 panels Sold to private client",
+    "price": "0",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/unnamed.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/unnamed"
+  },
+  {
+    "slug": "winter-awakened",
+    "name": "Winter Awakened",
+    "description": "16\"x40\" · Original · Acrylic on canvas",
+    "price": "960",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/winter-awakened.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/winter-awakened"
+  },
+  {
+    "slug": "winter-walk",
+    "name": "Winter Walk",
+    "description": "24\"x24\" · Original · Acrylic on canvas",
+    "price": "864",
+    "currency": "CAD",
+    "availability": "InStock",
+    "image": "assets/products/winter-walk.webp",
+    "legacy_url": "https://www.carmenwildefineart.com/product-page/winter-walk"
+  }
+]
