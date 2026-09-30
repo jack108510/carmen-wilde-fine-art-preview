@@ -28,7 +28,7 @@ JS='''<script>const toggle=document.querySelector('.menu-toggle'),nav=document.q
 def page(title,content,depth=0,desc='Original landscape paintings by Edmonton artist Carmen Wilde.',switcher=False):
  p='../'*depth
  review_css='<link rel="stylesheet" href="concepts/design-switcher.css">' if switcher else ''
- review_control='''<aside class="design-switcher" aria-label="Design preview switcher"><div class="design-switcher__label"><small>Design 1 of 3</small><strong>Original preview</strong></div><a class="design-switcher__next" href="concepts/gallery-window.html" aria-label="Next design: Gallery Window">Next design ↗</a></aside>''' if switcher else ''
+ review_control='''<aside class="design-switcher" aria-label="Design preview switcher"><div class="design-switcher__label"><small>Design 1 of 3</small><strong>Original preview</strong></div><a class="design-switcher__next" href="concepts/gallery-window.html" aria-label="Next design: Exhibition">Next design ↗</a></aside>''' if switcher else ''
  return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="description" content="{escape(desc,quote=True)}"><title>{escape(title)} | Carmen Wilde Fine Art</title>{FONT}<link rel="stylesheet" href="{p}styles.css">{review_css}</head><body>{header(depth)}<main id="top">{content}</main>{footer(depth)}{review_control}{JS}</body></html>'''
 def save(name,title,body,depth=0,desc=None,switcher=False):
  dest=ROOT/name;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(page(title,body,depth,desc or title+' by Edmonton landscape artist Carmen Wilde.',switcher=switcher))
