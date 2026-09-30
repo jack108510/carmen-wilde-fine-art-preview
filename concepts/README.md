@@ -1,6 +1,13 @@
 # Carmen Wilde — homepage design directions
 
-These are **review-only homepage concepts**, not separate stores or complete site migrations. The current preview and the live Wix site are unchanged. Links to artwork, commissions and contact lead to the existing staging site's corresponding pages; shopping still bridges to Wix and must not be treated as launch-complete. Both concept pages are `noindex,nofollow`.
+## Current direction: same vibe, more inventive layouts
+
+- **Gallery Window (`gallery-window.html`)** keeps the original paper/pine palette and type, but frames the hero painting like an exhibition piece. The title sits in the open margin; the art remains unobscured. Best for a quieter, premium gallery feel.
+- **Field Notes (`field-notes.html`)** uses the same colours, fonts and copy but introduces a two-painting hero, offset artwork rhythm and more narrative pacing. Best for a more personal, explorative feel.
+
+The two older colour-theme experiments below preceded this brief and are **not the recommended direction**.
+
+These are **review-only homepage concepts**, not separate stores or complete site migrations. The current preview and the live Wix site are unchanged. Links to artwork, commissions and contact lead to the existing staging site's corresponding pages; shopping still bridges to Wix and must not be treated as launch-complete. All concept pages are `noindex,nofollow`.
 
 ## Nocturne (`nocturne.html`)
 - **Stance:** immersive, dark-gallery presentation; the paintings become luminous against charcoal.
