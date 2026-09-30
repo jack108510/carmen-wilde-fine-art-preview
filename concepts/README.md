@@ -2,6 +2,8 @@
 
 ## Current direction: same vibe, more inventive layouts
 
+A fixed **Next design** button cycles through the original homepage, Gallery Window, and Field Notes on desktop and mobile. It appears only on these three review homepages, not on artwork, catalog, or contact pages. The older, out-of-brief experiments below are intentionally excluded.
+
 - **Gallery Window (`gallery-window.html`)** keeps the original paper/pine palette and type, but frames the hero painting like an exhibition piece. The title sits in the open margin; the art remains unobscured. Best for a quieter, premium gallery feel.
 - **Field Notes (`field-notes.html`)** uses the same colours, fonts and copy but introduces a two-painting hero, offset artwork rhythm and more narrative pacing. Best for a more personal, explorative feel.
 
