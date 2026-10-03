@@ -28,5 +28,6 @@ Before domain launch:
 - QA: start `python3 -m http.server 8766`, then run `python3 qa_site.py` (requires bs4, Pillow, Playwright and local Chrome); checks all 65 pages at three widths plus assets, internal links, menu and email-compose action.
 - Catalog refresh from public Wix product sitemap: `python3 collect_products.py` (requires requests, bs4, Pillow)
 - Hosting: GitHub Pages from `main` `/`, with `.nojekyll`
+- `assets/silence-revised.webp` is a temporary 288 × 415 crop of Carmen's revised painting from a Messages screenshot. Replace it with the original full-resolution photo before launch; the current live Wix product artwork is not changed.
 
 Do not point `carmenwildefineart.com` at GitHub Pages until checkout, contact handling, inventory, policy copy, and artwork permissions are approved by Carmen.
